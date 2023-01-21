@@ -9,7 +9,7 @@ Une fois Flutter installé, vous pouvez cloner ce projet en utilisant la command
 git clone https://github.com/Guigui1901/Simple_Flutter_App.git
 ```
 
-Ou en téléchargeant le projet en tant que (fichier zip)[https://codeload.github.com/Guigui1901/Simple_Flutter_App/zip/refs/heads/main].
+Ou en téléchargeant le projet en tant que [fichier zip](https://codeload.github.com/Guigui1901/Simple_Flutter_App/zip/refs/heads/main).
 
 Ensuite, vous pouvez vous rendre dans le dossier du projet et lancer la commande suivante pour vérifier que tout est correctement configuré:
 ```
