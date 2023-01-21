@@ -1,0 +1,81 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Android-specific files
+.idea/
+*.iml
+local.properties
+*.ipr
+*.iws
+build/
+
+# iOS-specific files
+*.mode1v3
+*.mode2v3
+*.moved-aside
+*.pbxuser
+*.perspectivev3
+*.xccheckout
+*.xcscmblueprint
+
+# Intellij IDEA
+*.iml
+*.ipr
+*.iws
+
+# Android Studio
+.idea/
+*.iml
+local.properties
+*.ipr
+*.iws
+build/
+
+# Xcode
+*.mode1v3
+*.mode2v3
+*.moved-aside
+*.pbxuser
+*.perspectivev3
+*.xccheckout
+*.xcscmblueprint
+
+# Visual Studio Code
+.vscode/
+
+# Gradle
+build/
+
+# Flutter
+.flutter-plugins
+.flutter-plugins-dependencies
+.flutter-plugins-generated
+.packages
+.pub-cache
+
+# Flutter's cache
+.dart_tool/
+build/
+
+# IntelliJ
+*.iml
+*.ipr
+*.iws
+
+# Visual Studio Code
+.vscode/
+
+# Gradle
+build/
+
+# MacOS
+*.DS_Store
+
+# Linux
+*~
