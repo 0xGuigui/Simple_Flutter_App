@@ -1,16 +1,25 @@
-# simpleprojet
+# Questionnaire App
+Ce projet est une application de questionnaire simple créée avec Flutter. Il permet à l'utilisateur de répondre à quelques questions en utilisant du texte et affiche un résumé de toutes les réponses à la fin.
 
-A new Flutter project.
+## Compilation
+Pour compiler ce projet, vous aurez besoin d'avoir installé Flutter sur votre ordinateur. Vous pouvez suivre les instructions d'installation sur le site officiel de Flutter pour cela.
 
-## Getting Started
+Une fois Flutter installé, vous pouvez cloner ce projet en utilisant Git ou télécharger les fichiers directement sur votre ordinateur.
 
-This project is a starting point for a Flutter application.
+Ouvrez un terminal et naviguez jusqu'au dossier racine du projet. Exécutez la commande suivante pour vérifier que tout est correctement configuré:
+```
+flutter doctor
+```
 
-A few resources to get you started if this is your first Flutter project:
+Si tout est correctement configuré, vous pouvez compiler l'application en utilisant la commande suivante:
+```
+flutter run
+```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Fonctionnalités
+- [x] Affichage d'une liste de questions
+- [x] Répondre à une question en utilisant du texte
+- [x] Affichage d'un résumé des réponses
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Auteurs
+- Guilhem Jéhanno
