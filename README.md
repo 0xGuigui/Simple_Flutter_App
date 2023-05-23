@@ -30,4 +30,4 @@ flutter run
 - Le projet est optimisé pour iOS, testé sur un iPhone 14 Pro Max
 
 ## Auteurs
-- Guilhem Jéhanno
+- Guigui
